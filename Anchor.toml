@@ -1,0 +1,14 @@
+[features]
+seeds = false
+[programs.localnet]
+basic_anchor = "yCucSuJT8KeJidTFFHQTYQ4JBTMHq4Q6zNv8RZMjEKV"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/home/muhammadzaryabrafique/.config/solana/id.json"
+
+[scripts]
+test = "yarn run mocha -t 1000000 tests/"
