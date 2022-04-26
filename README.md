@@ -1,4 +1,4 @@
-# Solana Counter DApp using Anchor framwork and React
+# Counter DApp in Solana using Anchor framwork and React
 
 ### Smart Contracts:
 - Rust (Anchor)
