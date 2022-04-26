@@ -19,7 +19,7 @@ describe("basic-anchor", () => {
     );
 
     //Address of the deployed program
-    const programId = new anchor.web3.PublicKey("yCucSuJT8KeJidTFFHQTYQ4JBTMHq4Q6zNv8RZMjEKV");
+    const programId = new anchor.web3.PublicKey("Bs9xd4xLng5Fzrh3ykjk8tYquZqbxmDNjmtMtnGcguh7");
 
     //Generate the program client from IDL
     const program = new anchor.Program(idl, programId);
@@ -60,7 +60,7 @@ describe("basic-anchor", () => {
     );
 
     //Address of the deployed program
-    const programId = new anchor.web3.PublicKey("yCucSuJT8KeJidTFFHQTYQ4JBTMHq4Q6zNv8RZMjEKV");
+    const programId = new anchor.web3.PublicKey("Bs9xd4xLng5Fzrh3ykjk8tYquZqbxmDNjmtMtnGcguh7");
 
     //Generate the program client from IDL
     const program = new anchor.Program(idl, programId);
